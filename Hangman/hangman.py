@@ -3,6 +3,7 @@ lives = 6
 Game_over = False
 #step 1 :- Generate a random word
 import random
+from art import stages
 
 word_list = [
     'HyperTextMarkupLink', 'CascadingStyleSheets', 'Python', 'Java', 'JavaScript', 'Swift', 'C++', 'C#', 'R',
